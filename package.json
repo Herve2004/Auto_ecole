@@ -5,7 +5,7 @@
   "type": "module",
   "homepage": "https://TON-USERNAME.github.io/NOM-DU-REPO",
   "scripts": {
-    "build:dev": "vite build --mode development"
+    "build:dev": "vite build --mode development",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
